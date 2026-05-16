@@ -1,0 +1,1 @@
+# Smart-crop-prize-prediction-python
